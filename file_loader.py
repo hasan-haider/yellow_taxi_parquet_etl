@@ -49,7 +49,7 @@ for date_filter in dates:
 
     log.info(str(date_filter) + ': Transformation Complete')
     object_name = file_name[:-7] + str(date_filter) + extension
-    print(object_name)
+    # print(object_name)
     log.info('object name: ' + file_name + str(date_filter) + extension)
     s3_url = 's3://' + bucket_name + '/' + month + '/' + object_name
 
@@ -63,6 +63,6 @@ for date_filter in dates:
 
     # sub_df.to_parquet(file_name+str(date_filter)+extension,'pyarrow') # to store locally
 
-    print(s3_url + ' Complete')
+    log.info(s3_url + ' Complete')
     # break #uncomment to load single file
-print('Done!')
+log.info('Done!')
