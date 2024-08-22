@@ -11,6 +11,9 @@ Project Plan Link: https://docs.google.com/spreadsheets/d/1EJOXr3taY3n423pfoxz_P
 
 
 Document Link: https://docs.google.com/document/d/18VVjqikpuoio7pjlFJK1Nqjjwzd9MwPHVQ9msK9TKXs/edit?usp=sharing
+
+Architecture:
+![Alt text](relative%20path/to/architecture.png?raw=true "Architecture")
 # Project Details:
 ## Task 1.	In this scenario, this data would be provided in single day batches based on the tpep_dropoff_datetime.
 Split the parquet file based on this field into multiple files.
