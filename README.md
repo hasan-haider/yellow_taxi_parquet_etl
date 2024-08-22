@@ -2,7 +2,9 @@
 parquet file loader to s3 and etl pipeline
 # Author: Syed Hasan
 Dataset: https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page Yellow Taxi March 2022 parquet
-
+Presentation Link: https://docs.google.com/presentation/d/1eqQam_PcUJrImCFWs1OnEfBrB8AZ8Y3ZIW0rj9uWeSE/edit?usp=sharing
+Project Plan document Link: https://docs.google.com/spreadsheets/d/1EJOXr3taY3n423pfoxz_PYW5se63j-Cbvoy77PrGnOI/edit?usp=sharing
+Document Link: https://docs.google.com/document/d/18VVjqikpuoio7pjlFJK1Nqjjwzd9MwPHVQ9msK9TKXs/edit?usp=sharing
 # Project Details:
 ## Task 1.	In this scenario, this data would be provided in single day batches based on the tpep_dropoff_datetime.
 Split the parquet file based on this field into multiple files.
