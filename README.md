@@ -7,7 +7,7 @@ Dataset: https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page Yellow Tax
 Presentation Link: https://docs.google.com/presentation/d/1eqQam_PcUJrImCFWs1OnEfBrB8AZ8Y3ZIW0rj9uWeSE/edit?usp=sharing
 
 
-Project Plan document Link: https://docs.google.com/spreadsheets/d/1EJOXr3taY3n423pfoxz_PYW5se63j-Cbvoy77PrGnOI/edit?usp=sharing
+Project Plan Link: https://docs.google.com/spreadsheets/d/1EJOXr3taY3n423pfoxz_PYW5se63j-Cbvoy77PrGnOI/edit?usp=sharing
 
 
 Document Link: https://docs.google.com/document/d/18VVjqikpuoio7pjlFJK1Nqjjwzd9MwPHVQ9msK9TKXs/edit?usp=sharing
